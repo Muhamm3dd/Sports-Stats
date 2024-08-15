@@ -1,6 +1,6 @@
 # Sports-Stats
 
-To run this app locally, follow these steps:
+# To run this app locally, follow these steps:
 
 Clone the repository:
 git clone https://github.com/Muhamm3dd/Sports-Stats.git
