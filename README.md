@@ -1,13 +1,34 @@
-# Sports-Stats
+## Sports-Stats
 
-# To run this app locally, follow these steps:
+### To run this app locally, follow these steps:
 
-Clone the repository:
-git clone https://github.com/Muhamm3dd/Sports-Stats.git
-Navigate to the project directory:
-cd sports-stats-app
-Install the dependencies:
-npm install
-Start the development server:
-npm start
-The app will be available at http://localhost:3000.
+## Prerequisites
+
+- Node.js and npm installed on your machine.
+
+1. **Clone the repository:**
+
+    ```bash
+    git clone <repository-url>
+    cd Sports-Stats
+    ```
+
+2. **Install dependencies:**
+
+    ```bash
+    npm install
+    ```
+
+### Running the Project
+
+1. **Start the server:**
+
+    ```bash
+    npm start
+    ```
+
+    This will start the Express server on `http://localhost:3000` (or another port if specified).
+
+2. **Access the application:**
+
+    Open your web browser and go to `http://localhost:3000` to view the application. Use the "Load Player Stats" button on the Data page to fetch and display player data.
