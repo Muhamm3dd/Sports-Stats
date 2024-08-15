@@ -1,6 +1,6 @@
 # Sports-Stats
 
-##This project is a web application that demonstrates the use of React to serve sports data. The data includes various football and basketball players and their statistics. The frontend allows users to view and filter player information through an interactive web page.
+# This project is a web application that demonstrates the use of React to serve sports data. The data includes various football and basketball players and their statistics. The frontend allows users to view and filter player information through an interactive web page.
 
 ## Prerequisites
 
